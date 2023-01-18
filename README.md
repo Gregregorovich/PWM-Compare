@@ -6,6 +6,7 @@ The aim of this is to compare fan speeds for case fans as determined by CPU and 
 
 This would also be ideal for a (especially single-loop) watercooling system with both CPU and GPU in the loop.
 
+This has been designed for a dual core microcontroller like the Raspberry Pi Pico, but with minimal tweaking it could be adjusted to a single core microcontroller.
 
 Designed-for scenario:
 * I have 6 fan headers on my motherboard, and 6 on my Corsair Commander Pro.
