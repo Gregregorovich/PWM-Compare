@@ -16,6 +16,6 @@ Designed-for scenario:
 Corsair iCUE allows me to set a fan curve based on GPU temperature.
 My motherboard's BIOS/UEFI allows me to set a fan curve based on CPU temperature.
 
-I have Noctua iPPC 3000 RPM fans, as I wanted black Noctua fans and the Chromax ones hadn't yet been released. I never want to run them at 100%, so if 100% duty cycle is detected it assumes there is no control yet so defaults to 10%; enough to have some airflow and also be relatively quiet - when my computer starts up it won't sound like a jet taking off anymore as they default to 100%.
+I have Noctua iPPC 3000 RPM fans, as I wanted black Noctua fans and the Chromax ones hadn't yet been released. I never want to run them at 100%, so if 100% duty cycle is detected it assumes there is no control yet so defaults to 37.5%; enough to have plenty of airflow and also be relatively quiet - when my computer starts up it won't sound like a jet taking off anymore as they default to 100%.
 
 Further info of the reason why I did this can be found at https://forum.level1techs.com/t/gpu-and-cpu-dependent-case-fan-control-with-kvm-using-linux-and-windows-software/191877
