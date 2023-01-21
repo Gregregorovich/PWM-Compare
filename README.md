@@ -1,7 +1,7 @@
 # PWM-Compare
 Compares two different computer fan PWM duty cycles and outputs the highest duty cycle
 
-N.B. Utilises statistics micropython library found at https://github.com/rcolistete/MicroPython_Statistics
+N.B. Dependent on the statistics micropython library found at https://github.com/rcolistete/MicroPython_Statistics
 
 The aim of this is to compare fan speeds for case fans as determined by CPU and GPU temperature and still allow for monitoring of each fan via their tach pin (IE not using a PWM splitter).
 
